@@ -16,7 +16,6 @@ Each entry in the dataset is characterized by the following features:
 - `alexa_Ngrams`: N-gram features based on Alexa data.
 - `word_Ngrams`: Proposed N-gram-based dictionary features.
 
-
 ## Data Usage
 The dataset is stored in a compressed .gz file format. It can be easily loaded into a pandas DataFrame using the following Python code:
 ```
@@ -37,6 +36,5 @@ pages = {205-218},
 year = {2021},
 publisher = {Taylor & Francis},
 doi = {10.1080/19393555.2020.1834650},
-
 }
 ```

@@ -26,7 +26,7 @@ df = pd.read_csv('domains_features.gz', compression = 'gzip', encoding='utf-8')
 
 ## Reference
 If you found the dataset useful in your research or applications, please cite using the following BibTeX:
-`
+```
 @article{doi:10.1080/19393555.2020.1834650,
 author = {Tianyu Wang, Li-Chiou Chen and Yegin Genc},
 title = {A dictionary-based method for detecting machine-generated domains},
@@ -39,4 +39,4 @@ publisher = {Taylor & Francis},
 doi = {10.1080/19393555.2020.1834650},
 
 }
-`
+```
